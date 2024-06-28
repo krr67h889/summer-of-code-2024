@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Poppins" , san-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: BLUe
+}
+
+.wrapper{
+    color:white;
+    width: 503px;
+    height: 595px;
+    top: 243px;
+    left: 711px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: green;
+    
+}
+
+#to-continue{
+    text-align: center
+}
+
+#essentials{
+    width: 500px;
+    height: 213px;
+    top: 357px;
+    left: 711px;
+    gap: 0px;
+    border: 10px 10px 10px 10px;
+    opacity: 0px;
+}
+
+.btn{
+    width: 500px;
+    height: 50px;
+    top: 612px;
+    left: 715px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    text-align: center;
+    background-color:rgba(0, 52, 101, 1);
+    color: white;
+}
+
+.input-box input{
+    width: 500px;
+    height: 50px;
+    top: 612px;
+    left: 715px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+}
+
+#register{
+    width: 103px;
+    height: 17px;
+    top: 821px;
+    left: 982px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16.7px;
+    text-align: left;
+}
+
+#no-account{
+    width: 178px;
+    height: 16px;
+    top: 821px;
+    left: 799px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.24px;
+    text-align: left;
+}
