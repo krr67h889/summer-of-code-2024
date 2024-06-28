@@ -1,0 +1,184 @@
+.half-box{
+    width: 50%;
+    height: 630px;
+    left: 662px;
+    right: 0px;
+    gap: 0px;
+    opacity: 0.9;
+    background-color: #E5E5E5;
+    position: absolute;
+}
+
+.Digital{
+    color:black;
+    font-size: 30px;
+    position: relative;
+    top: 86px;
+    left: 86px;
+}
+
+.messege{
+    color:#3751FE;
+    position: relative;
+    height: 108px;
+    width: 526px;
+    top: 100px;
+    left:86px;
+    gap: 0px;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 49.03px;
+    text-align: left;
+}
+
+p{
+   position: relative;
+   top: 90px;
+   left: 86px;
+   color:purple
+}
+
+.input-box1{
+    width: 400px;
+    position: relative;
+    top:90px;
+    left:86px;
+    gap: 0px;
+ 
+}
+
+.input-box2{
+    position: relative;
+    top: 90px;
+    left:86px;
+}
+
+.input-box1 input,
+.input-box2 input {
+    width: 550px; 
+    height: 40px; 
+} 
+
+.remember-me{
+    position: relative;
+    top: 100px;
+    left: 86px;
+}
+
+.forget>.inside{
+    color: black;
+    width: 145px;
+    height: 21px;
+    position: relative;
+    top: 79px;
+    left: 522px;
+    gap: 0px;
+}
+
+.button{
+    background-color: blue;
+    color: white;
+    position: relative;
+    left: 86px;
+    top: 110px ;
+    border-color: blue;
+    width:90px;
+    height:44px;
+}
+
+.button2{
+    background-color: white;
+    color: blue;
+    position: relative;
+    top: 110px;
+    left: 120px;
+    border-color: #0C31F1;
+    width: 90px;
+    height: 44px;
+}
+
+.other>p{
+    color:#000000;
+    position:relative;
+    left: 86px;
+    top: 130px;
+}
+
+.facebook{
+    color:#3751FE;
+    position: relative;
+    top: 95px;
+    left: 255px;
+}
+
+
+.linkedin{
+    color:#3751FE;
+    position: relative;
+    top: 76px;
+    left: 420px;
+}
+
+.google{
+    color: #3751FE;
+    position: relative;
+    top:57px;
+    left: 590px;
+}
+
+
+.home{
+    background-color: #E5E5E5;
+    color:black;
+    opacity: 1;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: 40px;
+    left: 120px;
+}
+
+.home a{
+    color:black;
+}
+
+.About-us{
+    position: relative;
+    top:12px;
+    left: 240px;
+}
+
+.About-us a{
+    color: black;
+}
+
+.Blog{
+    position: relative;
+    top: -5px;
+    left: 370px;
+}
+
+.Blog a{
+    color: black;
+}
+
+.Pricing{
+    position: relative;
+    top: -23px;
+    left: 480px;
+}
+
+.Pricing a{
+    color: black;
+}
+
+.logo{
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 170px;
+    top:70px;
+}
+
